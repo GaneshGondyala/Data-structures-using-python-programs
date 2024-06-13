@@ -17,4 +17,6 @@ h=len(s)-1
 k=int(input("enter a number"))
 v=a(s,l,h,k)
 print(v)
+#Bhanu edited this file
+
         
